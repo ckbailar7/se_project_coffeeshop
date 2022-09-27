@@ -1,5 +1,5 @@
 .recipes {
-  padding-bottom: 100px;
+  padding-bottom: 215px;
   padding-top: 100px;
   background: #fff url(../images/background_recipes.svg) no-repeat center/cover;
 }
@@ -52,4 +52,5 @@
   line-height: 30px;
   justify-content: space-between;
   display: flex;
+  margin: 0;
 }
