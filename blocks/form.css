@@ -12,7 +12,7 @@
   margin: 0;
 }
 
-.form__fieldset_checkbox {
+.form__fieldset_type_checkbox {
   display: flex;
   justify-content: center;
 }
