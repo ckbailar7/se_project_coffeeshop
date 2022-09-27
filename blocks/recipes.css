@@ -5,6 +5,7 @@
 }
 
 .recipes__title {
+  margin: 0;
   max-width: 580px;
   padding-left: 80px;
   color: black;
@@ -19,8 +20,9 @@
 }
 
 .recipes__subtitle {
+  margin: 0;
+  padding: 0 0 0 80px;
   max-width: 438px;
-  padding-left: 80px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;

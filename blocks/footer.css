@@ -18,6 +18,7 @@
 }
 
 .footer__social-heading {
+  margin: 0;
   font-family: "Inter", Arial, sans-serif;
 
   font-style: normal;
